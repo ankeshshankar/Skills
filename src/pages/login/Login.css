@@ -1,0 +1,30 @@
+.image_padding {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.heading_text {
+    color: #393199;
+    display: flex;
+    font-size: xx-large;
+    font-weight: 500;
+    justify-content: center;
+}
+
+.editText {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.textCustom {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.buttomCustom {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 15px;
+}

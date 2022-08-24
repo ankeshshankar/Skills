@@ -1,0 +1,38 @@
+ion-slides {
+    height: 100%;
+}
+ion-content {
+    --ion-background-color: #F0EEFA;
+}
+
+.heading_text {
+    color: #393199;
+    display: flex;
+    font-size: xx-large;
+    font-weight: 500;
+    justify-content: center;
+}
+
+.sub_heading_text {
+    color: #6158c5;
+    display: flex;
+    font-size: large;
+    font-weight: 300;
+    margin-left: 3%;
+    margin-right: 3%;
+    justify-content: center;
+}
+
+.text_padding {
+    display: flex;
+    padding-top: 10%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.image_padding {
+    padding-left: 10%;
+    padding-right: 10%;
+}
